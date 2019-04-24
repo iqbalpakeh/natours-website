@@ -16,7 +16,8 @@
     "url": "https://github.com/iqbalpakeh/natours-website/issues"
   },
   "homepage": "https://github.com/iqbalpakeh/natours-website#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "node-sass": "^4.11.0"
   }
 }
