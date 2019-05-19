@@ -78,8 +78,7 @@
 			height: 1.3rem;
 			width: 1.3rem;
 			border-radius: 50%;
-			position: absolute;
-			@include center-vertical-horizontal;
+			@include absCenter;
 			background-color: $color-primary;
 			opacity: 0;
 			transition: opacity 0.2s;

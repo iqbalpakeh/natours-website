@@ -169,8 +169,7 @@
 	/* ---------------------------------------------------- */
 
 	&__cta {
-		position: absolute;
-		@include center-vertical-horizontal;
+		@include absCenter;
 		width: 90%;
 		text-align: center;
 	}
