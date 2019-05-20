@@ -27,6 +27,7 @@
 /* 1800px - ~      : Big desktop screen [big-desktop] */
 /*
 /* NOTE: 1em = 16px */
+/* ORDER: Base + typography > general layout + grid > page layout > components */
 /* ---------------------------------------------------- */
 
 @mixin respond($breakpoint) {
